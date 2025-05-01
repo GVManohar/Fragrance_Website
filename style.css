@@ -1,0 +1,181 @@
+.nav {
+    /* margin: 0 auto; */
+    padding-top: 9px;
+    color: #fff;
+        background: linear-gradient( 
+180deg
+ , #fff -8%, #805c91 85%);
+    padding-bottom: 5px;
+}
+.nav ul li {
+	list-style: none;
+	float: left;
+	padding: 3px 23px;
+}
+.nav ul li a {
+	color: #fff;
+	font-family: sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: 600;
+}
+.fragrance {
+	    background: linear-gradient( 
+180deg
+ , #fff -4%, #683d7c 90%);
+}
+.fragrance h1 {
+	color: #fff;
+    font-weight: 600;
+    height: 274px;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 20px auto;
+    background-image: url(img/bottles.jpg);
+    font-size: 120px;
+    font-family: sans-serif;
+    background-position-x: center;
+    background-position-y: 40px;
+}
+.selling {
+    /* justify-content: center; */
+    text-align: center;
+}
+.selling h5 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    padding-top: 31px;
+    padding-bottom: 18px;
+}
+.selling img {
+	width: 90%;
+}
+.selling p {
+    font-family: cursive;
+    margin-top: 13px;
+}
+.bt {
+        height: 351px;
+    padding-top: 80px;
+    background: #522b62;
+    margin-top: 40px;
+}
+.bt img {
+    width: 100%;
+}
+.bt p {
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.bt p span {
+    color:#fa0606;
+}
+.bt button {
+    padding: 3px 12px;
+    background: none;
+    font-family: monospace;
+    color: #fff;
+    border: 1px solid #fff;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.bt .content {
+    padding: 50px 138px;
+    text-align: center;
+}
+.contact legend {
+    padding-bottom: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #522b62;
+}
+.contact {
+    /* padding-top: 43px; */
+    padding: 47px 0px;
+}
+.contact form {
+    text-align: center;
+}
+.contact input[type="text"] {
+    margin-bottom: 20px;
+    outline: none;
+    padding: 4px 13px;
+}
+.contact textarea {
+    margin-bottom: 20px;
+    padding: 20px 23px;
+}
+.contact button.btn.btn-primary {
+    border: 0;
+    background: #522b62;
+    font-family: sans-serif;
+    font-weight: 600;
+    border-radius: 32px;
+    padding: 5px 28px;
+}
+.contact img {
+ width: 90%;
+    margin-top: 30px;
+}
+.footer {
+    padding-top: 30px;
+    color: #fff;
+    background: #522b62;
+}
+.footer ul li {
+    list-style: none;
+
+}
+.footer ul li a {
+    opacity: 0.7;
+    color: #fff;
+   
+    font-size: 13px;
+    font-family: sans-serif;
+}
+.footer ul {
+    padding: 0;
+    /* padding: 27px 0px; */
+    margin-top: 25px;
+}
+.footer .input p {
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+.footer .icons i.fa.fa-facebook {
+        margin-right: 5px;
+    cursor: pointer;
+    background: #a79f9f85;
+    padding: 10px 13px;
+    border-radius: 50%;
+}
+.footer .icons i.fa.fa-info {
+        margin-right: 5px;
+     cursor: pointer;
+    background: #a79f9f85;
+    padding: 10px 15px;
+    border-radius: 50%;
+}
+.footer .icons i.fa.fa-twitter {
+        margin-right: 5px;
+     cursor: pointer;
+    background: #a79f9f85;
+    padding: 10px 10px;
+    border-radius: 50%;
+}
+.footer .icons i.fa.fa-instagram {
+        margin-right: 5px;
+     cursor: pointer;
+    background: #a79f9f85;
+    padding: 10px 11px;
+    border-radius: 50%;
+}
+.footer .icons i.fa.fa:hover {
+    background: #fff;
+    color:#522b62;
+}
